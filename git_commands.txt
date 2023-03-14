@@ -1,1 +1,2 @@
 Git Pull: allows you to pull down the latest changes from the git repository.
+Git Init: it initializes the repo and chooses a directory on the local computer to keep the git file in. 
