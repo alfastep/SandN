@@ -1,0 +1,1 @@
+Git Pull: allows you to pull down the latest changes from the git repository.
